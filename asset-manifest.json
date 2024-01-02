@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dogfoodtips/static/css/main.1ad349f6.css",
+    "main.js": "/dogfoodtips/static/js/main.ed53c75d.js",
+    "static/media/dogfruit.png": "/dogfoodtips/static/media/dogfruit.3dc2cbf2cfaa952f31d6.png",
+    "static/media/dogmeat.png": "/dogfoodtips/static/media/dogmeat.3740ceb2a7498687a0d1.png",
+    "static/media/dogs11.png": "/dogfoodtips/static/media/dogs11.263eafbdd80abda40d52.png",
+    "static/media/carrot.png": "/dogfoodtips/static/media/carrot.ee4af4cc819d16dd951e.png",
+    "static/media/pill.png": "/dogfoodtips/static/media/pill.f81a4873454957d10fcd.png",
+    "static/media/home.png": "/dogfoodtips/static/media/home.23e12d8efb11a2bae0c4.png",
+    "static/media/logo.png": "/dogfoodtips/static/media/logo.c7c96aa1852506408542.png",
+    "static/media/dogvit.png": "/dogfoodtips/static/media/dogvit.0355b7bd766c7448735e.png",
+    "static/media/beef.png": "/dogfoodtips/static/media/beef.26c8c239691328b48e23.png",
+    "index.html": "/dogfoodtips/index.html",
+    "main.1ad349f6.css.map": "/dogfoodtips/static/css/main.1ad349f6.css.map",
+    "main.ed53c75d.js.map": "/dogfoodtips/static/js/main.ed53c75d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ad349f6.css",
+    "static/js/main.ed53c75d.js"
+  ]
+}
